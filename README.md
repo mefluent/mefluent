@@ -13,7 +13,7 @@
 
 - **Languages:** HTML, CSS, JavaScript
 - **Design:** Figma, Ps
-- **Front-End Frameworks:** React.js
+- **Front-End Frameworks:** React.js, Tailwind, and more
 - **Version Control:** Git, GitHub
 
 ## Let's Connect
