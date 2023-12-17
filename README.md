@@ -24,7 +24,7 @@
 
 ## Get in Touch
 
-I'm always open to collaboration and new opportunities. If you have a project or just want to say hi, feel free to reach out!
+I'm always open to collaboration and new opportunities. If you have a project, feel free to reach out!
 
 ---
 
