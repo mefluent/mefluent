@@ -29,5 +29,3 @@ I'm always open to collaboration and new opportunities. If you have a project, f
 ---
 
 Thanks for checking out my GitHub profile. Happy coding! 🚀
-
-- 😄 Pronouns: he/him
