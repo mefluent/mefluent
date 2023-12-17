@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**mefluent/mefluent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-👋 Hello! I'm Jaroslav, a passionate front-end developer with a love for creating engaging and user-friendly web experiences.
+👋 Hello! I'm a passionate front-end developer with a love for creating engaging and user-friendly web experiences.
 
 ## About Me
 
