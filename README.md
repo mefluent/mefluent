@@ -20,7 +20,7 @@
 
 - 🌐 Portfolio: [not hosted yet](https://www.yourportfolio.com)
 - 📧 Discord: j_ask
-- 💼 Vk: [Vk]([https://www.linkedin.com/in/yourlinkedin](https://vk.com/j_ask))
+- 💼 Vk: [Vk]([https://vk.com/j_ask])
 
 ## Get in Touch
 
