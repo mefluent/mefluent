@@ -7,7 +7,7 @@
 - 💻 I specialize in front-end technologies.
 - 🚀 Currently exploring the wonderful world of React.js.
 - 🎨 I have an eye for design and enjoy crafting visually appealing user interfaces.
-- 🌐 Check out my portfolio at [not hosted yet](https://www.yourportfolio.com).
+- 🌐 Check out my portfolio at [not hosted yet](https://www.nothosted.com).
 
 ## Skills
 
@@ -18,7 +18,7 @@
 
 ## Let's Connect
 
-- 🌐 Portfolio: [not hosted yet](https://www.yourportfolio.com)
+- 🌐 Portfolio: [not hosted yet](https://www.nothosted.com)
 - 📧 Discord: j_ask
 - 💼 Vk: [Vk](https://vk.com/j_ask)
 
